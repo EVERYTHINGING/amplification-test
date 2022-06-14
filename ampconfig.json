@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.13.0",
+  "appInfo": {
+    "name": "Sample app",
+    "description": "Sample application for e-commerce",
+    "version": "rbhtapmi",
+    "id": "cl4d40ci666117401hnbennsiv4",
+    "url": "https://server.amplication.com/cl4d40ci666117401hnbennsiv4",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl4d40ci666117401hnbennsiv4",
+      "authProvider": "Jwt"
+    }
+  }
+}
